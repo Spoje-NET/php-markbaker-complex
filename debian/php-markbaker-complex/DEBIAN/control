@@ -1,0 +1,11 @@
+Package: php-markbaker-complex
+Version: 1.0.0-1
+Architecture: all
+Maintainer: Vítězslav Dvořák <vitezslav.dvorak@spojenet.cz>
+Installed-Size: 63
+Section: php
+Priority: optional
+Homepage: https://github.com/MarkBaker/PHPComplex
+Description: PHP class for working with complex numbers
+ PHP library providing a class and operations for working with complex numbers,
+ including trigonometric, logarithmic and other mathematical operations.

@@ -1,0 +1,6 @@
+phpcomposer:name=markbaker/complex
+phpcomposer:description=PHP Class for working with complex numbers
+phpcomposer:Debian-require=php-common, php-common
+phpcomposer:Debian-require-dev=phpunit, php-squizlabs-php-codesniffer (>= 3.7), php-squizlabs-php-codesniffer (<< 4~~), php-phpcompatibility-php-compatibility (>= 9.3), php-phpcompatibility-php-compatibility (<< 10~~), php-dealerdirect-phpcodesniffer-composer-installer
+misc:Depends=
+misc:Pre-Depends=

@@ -1,0 +1,16 @@
+Source: php-markbaker-complex
+Section: php
+Priority: optional
+Maintainer: Vítězslav Dvořák <vitezslav.dvorak@spojenet.cz>
+Build-Depends: debhelper-compat (= 13), pkg-php-tools
+Standards-Version: 4.6.2
+Homepage: https://github.com/MarkBaker/PHPComplex
+Vcs-Git: https://github.com/Spoje-NET/php-markbaker-complex.git
+Vcs-Browser: https://github.com/Spoje-NET/php-markbaker-complex
+
+Package: php-markbaker-complex
+Architecture: all
+Depends: ${misc:Depends}, ${phpcomposer:Depends}
+Description: PHP class for working with complex numbers
+ PHP library providing a class and operations for working with complex numbers,
+ including trigonometric, logarithmic and other mathematical operations.

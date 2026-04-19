@@ -1,0 +1,7 @@
+88f5fcc74f342533a5cd4853f0f3a063  usr/share/doc/php-markbaker-complex/changelog.Debian.gz
+71fdc7df720ef9c7e858af10b52dee02  usr/share/doc/php-markbaker-complex/copyright
+64ff6379f814d52dfd3a9f6072821492  usr/share/php/Complex/Complex.php
+8c7e71ab0e0c1e6fa77dba5198a89ed5  usr/share/php/Complex/Exception.php
+f15bab91078e172b90e94c988accf432  usr/share/php/Complex/Functions.php
+05ceff3ab0f6300602b2149249422c5f  usr/share/php/Complex/Operations.php
+8dcd325739076a2794d9bf158cfcf701  usr/share/php/Complex/autoload.php
